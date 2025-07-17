@@ -2,20 +2,20 @@
 # Android Screenshots
 
 <img width="440" height="800" alt="Screenshot_20250717_110311" src="https://github.com/user-attachments/assets/b4c5e0c4-d3d2-4411-ab92-20085460138d" />
-<img width="1080" height="2400" alt="Screenshot_20250717_110251" src="https://github.com/user-attachments/assets/6c6b56c9-c8bc-4ffa-bcaa-0583f5395b0a" />
-<img width="1080" height="2400" alt="Screenshot_20250717_110236" src="https://github.com/user-attachments/assets/9dc82c4d-06df-42fe-bb6d-a03b5957d4fe" />
-<img width="1080" height="2400" alt="Screenshot_20250717_110223" src="https://github.com/user-attachments/assets/4f0a1e30-ba1b-4498-b692-583670d48063" />
-<img width="1080" height="2400" alt="Screenshot_20250717_110150" src="https://github.com/user-attachments/assets/a9511b5a-9914-447d-acaa-5fed6285c534" />
-<img width="1080" height="2400" alt="Screenshot_20250717_110126" src="https://github.com/user-attachments/assets/7a732e74-6c56-4748-a227-f9ee5ddb96f0" />
+<img width="440" height="800" alt="Screenshot_20250717_110251" src="https://github.com/user-attachments/assets/6c6b56c9-c8bc-4ffa-bcaa-0583f5395b0a" />
+<img width="440" height="800" alt="Screenshot_20250717_110236" src="https://github.com/user-attachments/assets/9dc82c4d-06df-42fe-bb6d-a03b5957d4fe" />
+<img width="440" height="800" alt="Screenshot_20250717_110223" src="https://github.com/user-attachments/assets/4f0a1e30-ba1b-4498-b692-583670d48063" />
+<img width="440" height="800" alt="Screenshot_20250717_110150" src="https://github.com/user-attachments/assets/a9511b5a-9914-447d-acaa-5fed6285c534" />
+<img width="440" height="800" alt="Screenshot_20250717_110126" src="https://github.com/user-attachments/assets/7a732e74-6c56-4748-a227-f9ee5ddb96f0" />
 
 # iOS Screenshots
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 01 06" src="https://github.com/user-attachments/assets/8de81cd1-a617-4564-b13c-9f647f9ba2ba" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 57" src="https://github.com/user-attachments/assets/059565cf-5066-486b-83d5-2283ecd7a36c" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 50" src="https://github.com/user-attachments/assets/68f70aaf-6739-4c3e-9a3c-4a1ba9566bda" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 42" src="https://github.com/user-attachments/assets/e30f69a2-d020-49d1-88cc-99ed36ac8d02" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 30" src="https://github.com/user-attachments/assets/90c57be1-b62b-4c45-9f41-a9ed068792f5" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 14" src="https://github.com/user-attachments/assets/55e4f3fa-ac51-4587-9b04-9a76a9dd471d" />
+<img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 01 06" src="https://github.com/user-attachments/assets/8de81cd1-a617-4564-b13c-9f647f9ba2ba" />
+<img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 57" src="https://github.com/user-attachments/assets/059565cf-5066-486b-83d5-2283ecd7a36c" />
+<img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 50" src="https://github.com/user-attachments/assets/68f70aaf-6739-4c3e-9a3c-4a1ba9566bda" />
+<img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 42" src="https://github.com/user-attachments/assets/e30f69a2-d020-49d1-88cc-99ed36ac8d02" />
+<img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 30" src="https://github.com/user-attachments/assets/90c57be1-b62b-4c45-9f41-a9ed068792f5" />
+<img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 14" src="https://github.com/user-attachments/assets/55e4f3fa-ac51-4587-9b04-9a76a9dd471d" />
 
 
 
