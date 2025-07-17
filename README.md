@@ -10,16 +10,12 @@
 
 # iOS Screenshots
 
-<img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 01 06" src="https://github.com/user-attachments/assets/8de81cd1-a617-4564-b13c-9f647f9ba2ba" />
-<img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 57" src="https://github.com/user-attachments/assets/059565cf-5066-486b-83d5-2283ecd7a36c" />
-<img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 50" src="https://github.com/user-attachments/assets/68f70aaf-6739-4c3e-9a3c-4a1ba9566bda" />
-<img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 42" src="https://github.com/user-attachments/assets/e30f69a2-d020-49d1-88cc-99ed36ac8d02" />
-<img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 30" src="https://github.com/user-attachments/assets/90c57be1-b62b-4c45-9f41-a9ed068792f5" />
 <img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 14" src="https://github.com/user-attachments/assets/55e4f3fa-ac51-4587-9b04-9a76a9dd471d" />
-
-
-
-
+<img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 30" src="https://github.com/user-attachments/assets/90c57be1-b62b-4c45-9f41-a9ed068792f5" />
+<img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 42" src="https://github.com/user-attachments/assets/e30f69a2-d020-49d1-88cc-99ed36ac8d02" />
+<img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 50" src="https://github.com/user-attachments/assets/68f70aaf-6739-4c3e-9a3c-4a1ba9566bda" />
+<img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 00 57" src="https://github.com/user-attachments/assets/059565cf-5066-486b-83d5-2283ecd7a36c" />
+<img width="440" height="800" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-17 at 11 01 06" src="https://github.com/user-attachments/assets/8de81cd1-a617-4564-b13c-9f647f9ba2ba" />
 
 
 # Getting Started
